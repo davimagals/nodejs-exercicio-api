@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-exercicio-api",
+  "version": "1.0.0",
+  "description": "api para estudo de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davimagals/nodejs-exercicio-api.git"
+  },
+  "author": "Davi Magalhaes (davimagals)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davimagals/nodejs-exercicio-api/issues"
+  },
+  "homepage": "https://github.com/davimagals/nodejs-exercicio-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
